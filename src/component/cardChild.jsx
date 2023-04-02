@@ -5,7 +5,7 @@ flex-direction:column;
 align-items:center;
 gap:10px;
 padding:30px;
-margin-top:20px;
+margin-top:115px;
 border:1px solid silver;
 width:354px;
 background-color:#e3dede;
